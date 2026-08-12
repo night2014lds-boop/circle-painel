@@ -8,9 +8,9 @@ A circular, rotating application launcher styled like a revolver cylinder, desig
 
 This project was envisioned, designed, and developed entirely by **night2014lds-boop** (GitHub: [night26](https://github.com)).
 
-### ⚠️ Code Usage Rules (License and Credits)
-- **You are allowed** to clone, study, modify, and use this code for personal purposes.
-- **It is strictly PROHIBITED** to redistribute, republish, or sell this code (or modified parts of it) without explicitly keeping the original creator's credits and name (**night2014lds-boop**) at the top of the files and in the documentation. Respect the developer's work!
+### ⚠️ 
+1. **When you modify the files to fix**
+2.  them or sell them claiming they are yours—don't do that; simply include the creator's name at the beginning or end of the code.
 
 ---
 

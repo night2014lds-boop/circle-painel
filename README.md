@@ -1,4 +1,4 @@
-# Revolver Panel 🛰️
+# Circle-painel 🛰️
 
 A circular, rotating application launcher styled like a revolver cylinder, designed for extreme desktop customization on Linux (XFCE and other desktop environments).
 

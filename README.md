@@ -30,7 +30,7 @@ The **Revolver Panel** creates a perfectly circular, semi-transparent window pos
 You do not need to install dependencies manually. Open your terminal, copy the command below, paste it, and press **Enter**. The installer will download the project, set up the system libraries (Python 3, GTK 3, and Cairo), and configure the app to launch automatically when your computer starts:
 
 ```bash
-curl -sSL https://githubusercontent.com | bash
+curl -sSL https://githubusercontent.com | bash raw
 ```
 
 ---
